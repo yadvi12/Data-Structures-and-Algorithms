@@ -1,4 +1,4 @@
-// Question Link - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-l/problems/14463
+// Question Link - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-l
 
 int findMaxX(int n, vector<vector<int>> &arr, int B)
 {
